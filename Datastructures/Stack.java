@@ -7,7 +7,7 @@ isFull() : tests to see whether the stack is full.
 displayStack() : returns the length of the stack.*/
 
 
-class Stack{
+public class Stack{
     private int a[];
     private int top;
     private int length;
